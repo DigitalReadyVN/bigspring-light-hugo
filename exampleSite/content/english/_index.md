@@ -1,48 +1,48 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Chuyển đổi số, chuyển đổi xanh cho mục tiêu phát triển bền vững"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "DONASO là một startup chuyên sử dụng công nghệ tiên tiến như Trí tuệ nhân tạo (AI), Dữ liệu lớn (Big Data), Nền tảng số (Digital Platform), và Internet of Things (IoT) để thúc đẩy chuyển đổi số và chuyển đổi xanh. Mục tiêu chính của DONASO không chỉ là tối ưu hóa hiệu suất và quản lý thông tin mà còn tập trung vào bảo vệ môi trường và đảm bảo sự phát triển bền vững."
   button:
     enable : true
-    label : "Contact Us"
+    label : "Liên hệ"
     link : "contact/"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Những điều bạn cần biết" 
   feature_item:
     # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Trí tuệ nhân tạo"
+      icon : "fas fa-brain"
+      content : "Sử dụng AI để phân tích dữ liệu, dự đoán xu hướng, và tối ưu hóa quy trình làm việc."
       
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Dữ liệu lớn"
+      icon : "fas fa-chart-bar"
+      content : "Thu thập và xử lý lượng lớn dữ liệu để đưa ra quyết định thông minh và chiến lược phát triển."
       
     # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Nền tảng số"
+      icon : "fas fa-mobile-alt"
+      content : "Xây dựng môi trường kỹ thuật số để tương tác, quản lý, và theo dõi các hoạt động của dự án."
       
     # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "IoT"
+      icon : "fas fa-mixcloud"
+      content : "Kết nối các thiết bị thông minh để thu thập dữ liệu thời gian thực và cải thiện quản lý tài nguyên."
       
     # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Chuyển đổi số"
+      icon : "fas fa-at"
+      content : "Tối ưu hóa quy trình và công nghệ để đạt được chuyển đổi số hiệu quả."
       
     # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Chuyển đổi xanh"
+      icon : "fas fa-tree"
+      content : "Tập trung vào giải pháp thân thiện với môi trường và bền vững."
       
 
 
