@@ -31,7 +31,7 @@ feature:
       
     # feature item loop
     - name : "IoT"
-      icon : "fas fa-mixcloud"
+      icon : "fab fa-mixcloud"
       content : "Kết nối các thiết bị thông minh để thu thập dữ liệu thời gian thực và cải thiện quản lý tài nguyên."
       
     # feature item loop
