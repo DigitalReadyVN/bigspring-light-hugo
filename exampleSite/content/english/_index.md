@@ -103,11 +103,11 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Đồng hành cùng chúng tôi?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Chúng tôi tin rằng, với sự tích hợp của công nghệ tiên tiến và cam kết đối với chuyển đổi số và chuyển đổi xanh, DONASO sẽ đồng hành cùng bạn trên con đường phát triển bền vững và hiệu quả. Hãy sẵn sàng chia sẻ cùng chúng tôi sứ mệnh định hình tương lai."
   button:
     enable : true
-    label : "Contact Us"
+    label : "Liên hệ"
     link : "contact/"
 ---
