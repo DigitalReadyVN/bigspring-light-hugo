@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Chuyển đổi số, chuyển đổi xanh cho mục tiêu phát triển bền vững"
+  title : "Công nghệ thông minh cho tương lai xanh"
   image : "images/banner-art.svg"
   content : "DONASO là một startup chuyên sử dụng công nghệ tiên tiến như Trí tuệ nhân tạo (AI), Dữ liệu lớn (Big Data), Nền tảng số (Digital Platform), và Internet of Things (IoT) để thúc đẩy chuyển đổi số và chuyển đổi xanh. Mục tiêu chính của DONASO không chỉ là tối ưu hóa hiệu suất và quản lý thông tin mà còn tập trung vào bảo vệ môi trường và đảm bảo sự phát triển bền vững."
   button:
@@ -51,45 +51,45 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "3T App - Ứng dụng thông minh hướng dẫn phân loại rác"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "3T App là ứng dụng thông minh giúp nhận dạng và phân loại rác thải, cung cấp hướng dẫn chi tiết về cách xử lý đúng. Tích hợp công nghệ để thúc đẩy sự tham gia cộng đồng trong quản lý rác."
       button:
         enable : true
-        label : "Check it out"
+        label : "Tìm hiểu thêm"
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "3TMarket App - Ứng dụng mua bán, trao đổi rác tài nguyên"
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "3TMarket App là ứng dụng mua bán, trao đổi tài nguyên tái chế. Người dùng có thể đăng thông tin về rác thải tái chế, tạo cơ hội kinh doanh và giảm lượng rác."
       button:
         enable : true
-        label : "Check it out"
+        label : "Tìm hiểu thêm"
         link : "#"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "DonaAI - Hệ thống trí tuệ nhân tạo nhận dạng, phân loại rác."
       images:
       - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "DonaAI là một hệ thống trí tuệ nhân tạo (AI) chuyên nghiệp giúp nhận dạng và phân loại rác thải, hỗ trợ thống kê và kiểm toán rác tự động, giúp tối ưu hóa quá trình quản lý rác."
       button:
         enable : true
-        label : "Check it out"
+        label : "Tìm hiểu thêm"
         link : "#"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "DonaBigData - Hệ thống Dữ liệu lớn phân tích, trực quan và khuyến nghị về rác"
       images:
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "DonaBigData là một hệ thống Dữ liệu lớn chuyên sâu, thực hiện phân tích và trực quan hóa dữ liệu về rác thải, cung cấp khả năng đưa ra khuyến nghị để cải thiện quản lý rác thông minh."
       button:
         enable : true
-        label : "Check it out"
+       label : "Tìm hiểu thêm"
         link : "#"
         
 ################### Screenshot ########################

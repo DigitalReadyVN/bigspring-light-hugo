@@ -5,7 +5,7 @@ title = "DoNaSo"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Starup"
+footer_menu_left = "Startup"
 footer_menu_middle = "Sản phẩm"
 footer_menu_right = "Hỗ trợ"
 footer_content = "Startup ứng dụng AI, Big Data, Digital Platform, và IoT, tập trung chuyển đổi số, chuyển đổi xanh với mục tiêu phát triển bền vững và bảo vệ môi trường."
