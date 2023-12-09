@@ -89,7 +89,7 @@ service:
       content : "DonaBigData là một hệ thống Dữ liệu lớn chuyên sâu, thực hiện phân tích và trực quan hóa dữ liệu về rác thải, cung cấp khả năng đưa ra khuyến nghị để cải thiện quản lý rác thông minh."
       button:
         enable : true
-       label : "Tìm hiểu thêm"
+        label : "Tìm hiểu thêm"
         link : "#"
         
 ################### Screenshot ########################
